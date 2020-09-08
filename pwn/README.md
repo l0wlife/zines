@@ -11,5 +11,5 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [gdb](dbg/gdb.md) ~ Conhecendo o gdb<br>
 
 ### Buffer Overflow
-[bof](bof/bof.md) ~ Primeiro buffer overflow
+[bof](bof/bof.md) ~ Primeiro buffer overflow<br>
 [depbof](bof/depbof.md) ~ Exploração depurada com gdb
