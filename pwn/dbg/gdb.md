@@ -18,4 +18,4 @@ Veja o dump:<br>
 Observe a montagem do stack frame `push` coloca um valor na stack, `mov %rsp,%rbp` move essa valor para `rsp` e `mov $0x, %edi`, move um valor para o registrador `edi`. Logo após isso, temos uma `call` para `0x2013a0 <puts@plt>`, que seria o endereço da função puts, responsável por fazer um print.<br><br>
 Após isso, observe que as seguintes instruções são responsáveis por desmontar o stack frame
 <br><br>
-[home](../pwn.md)
+[home](../README.md)
