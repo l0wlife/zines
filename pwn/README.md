@@ -8,5 +8,5 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [Stack Frame](intro/stackf.md) ~ Entendendo o Stack Frame
 
 ### GDB (Gnu Debugger)
-[gdb](dbg/gdb.md) ~ Conhecendo o gdb
-[bof](bof/bof.md)
+[gdb](dbg/gdb.md) ~ Conhecendo o gdb<br>
+[bof](bof/bof.md) ~ Primeiro buffer overflow
