@@ -12,3 +12,4 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 
 ### Buffer Overflow
 [bof](bof/bof.md) ~ Primeiro buffer overflow
+[depbof](bof/depbof.md) ~ Exploração depurada com gdb
