@@ -28,5 +28,5 @@ Logo após isso, peguei o valor de `val` e usei o pattern offset para pegar o of
 Viu como a exploração com um debugger é mais fácil?<br>
 O resto da exploração vocês já conhessem, é a mesma de antes<br><br>
 
-[pwn](README.md)
-[home](../README.md)
+[pwn](../README.md)<br>
+[home](../../README.md)
