@@ -17,7 +17,7 @@ Vamos enviar um pattern de 100 bytes, e observe a stack...<br><br>
 
 <img src="https://i.imgur.com/QVFPHmH.png" width="60%"><br><br>
 
-Note que, a stack está toda sobrescrita pelo nosso pattern, e como vocês devem lembrar, os endereços da stack armazenam os endereços de instrução, que seria executados...<br>
+Note que, a stack está toda sobrescrita pelo nosso pattern, e como vocês devem lembrar, os endereços da stack armazenam os endereços de instrução, que seriam executados...<br>
 Por isso assim que damos sequência ao programa, ele retorna erro de `segmentation fault`, execute o comando `s`, para passar para a próxima etapa...<br><br>
 
 <img src="https://i.imgur.com/oCXDdb3.png" width="60%"><br><br>
