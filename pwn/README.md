@@ -12,4 +12,5 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 
 ### Buffer Overflow
 [bof](bof/bof.md) ~ Primeiro buffer overflow<br>
-[depbof](bof/depbof.md) ~ Exploração depurada com gdb
+[depbof](bof/depbof.md) ~ Exploração depurada com gdb<br>
+[insidebof](bof/insidebof.md) ~ Controlando endereço de retorno<br>
