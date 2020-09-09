@@ -11,9 +11,10 @@ Por matéria de facilidade de compreensão, nós vamos começar com **Python**, 
 
 Durante as partes fundamentais, você não vai ter problema algum, indendente de qual sistema operacional você use. Não obstante, como futuramente vamos nos focar em uma visão de segurança e ataque, é recomendado que — em algumas partes necessário — que você esteja usando algum sistema Unix-based. Então para lhe livrar de futuras dores de cabeças, instale o Linux. Se prefere não fazer Dual boot, então recomendo que instale em alguma VM. (e.g [VirtualBox](https://www.virtualbox.org/wiki/Downloads))<br>
 
-### Python
+### [Python](python/README.md)
 
-[Preparando tudo](intro/preparando.md) — Instalando o Python e suas dependências.
+
+### [C](c/README.md)
 
 
 
