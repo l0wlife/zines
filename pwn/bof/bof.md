@@ -43,4 +43,5 @@ Enviando o payload `perl -e 'print "a"x20 . "\xef\xbe\xad\xde\x90"'`, veja o que
 
 ## resumo
 Resumindo, quando a gente ultrapassou os limites que o buffer permitia, e começou a sobrescrever outras regiões de memória, descobrimos com quantos bytes sobrescreviamos o valor da variável `val`, e assim pudemos sobrescrever com o valor que nós quisessemos, e então sobrescrevemos com o valor que era comparado, e isso spawnou uma shell com permissões de `narnia1`...<br><br>
+[pwn](README.md)
 [home](../README.md)
