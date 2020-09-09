@@ -24,7 +24,7 @@ Sabendo isso, basta exportar um shellcode para essa variável, e ele será execu
 Feito!!<br><br>
 
 ## Resumo
-Como é feita a execução de um valor tirado de uma variável de ambiente, criamos essa variável e atribuimos um shellcode a ela, esse shell spawna uma shell pra gente<br><br>
+Como é feita a execução de um valor tirado de uma variável de ambiente, criamos essa variável e atribuimos um shellcode a ela, esse shellcode spawna uma shell pra gente<br><br>
 
 [pwn](../README.md)<br>
 [home](../../README.md)
