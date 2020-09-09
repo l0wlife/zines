@@ -4,4 +4,5 @@
 Não vamos falar muito de networking em sí, mas algumas coisas interessantes em questão de segurança, como pivoting, port-knocking, tunn...
 
 ### Pivoting e redirecionamento de tráfego
-[traffic redirection](pivot/tr.md) ~ Redirecionamento de tráfego
+[traffic redirection](pivot/tr.md) ~ Redirecionamento de tráfego<br>
+[pivoting](pivot/pivoting.md) ~ Usando redirecionamento de tráfego para pivoting<br><br>
