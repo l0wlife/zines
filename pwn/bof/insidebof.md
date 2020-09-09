@@ -41,5 +41,5 @@ Ok, payload montado `perl -e 'print "a"x44 . "\xcb\x85\x04\x08"' | ./vuln`<br><b
 ## Resumo
 O endereço de retorno, é sempre aquele que fica no topo da stack, ele será enviado para o registrador `ip` que aponta para a seguinte instrução, o que nós fizemos, foi explorar uma vulnerabilidade de buffer overflow, para que pudessmos sobrescrever esse endereço com o endereço da function `win`.<br><br>
 
-[pwn](README.md)
-[home](../README.md)
+[pwn](../README.md)<br>
+[home](../../README.md)
