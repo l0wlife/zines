@@ -27,3 +27,6 @@ Por outro lado, fecha a porta 22 se houver um "knock" nessa sequência 9000,8000
 
 ## Resources
 [Artigo TCC Port-Knocking](https://www.ppgia.pucpr.br/~jamhour/RSS/TCCRSS11/Diego%20Pereira%20do%20Nascimento%20_%20ArtigoTCC.pdf)
+<br><br>
+[net](../README.md)<br>
+[home](../../README.md)
