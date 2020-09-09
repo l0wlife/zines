@@ -9,4 +9,5 @@ A Stack nada mais é que uma pilha de dados, uma estrutura que contem endereços
 ### Como funciona
 A Arquitetura é composta por alguns registradores, `ax`, `bx`, `cx`, `dx`, `ip`, `bp` e `sp`. Sendo o registrador `ip` responsável por apontar a instrução em execução (instruction pointer), `bp` responsável pela instrução na base da stack e `sp` responsável pela instrução no topo da stack (stack pointer), o endereço que aponta pra instrução no topo da stack é conhecido como `endereço de retorno`, porque ele vai retornar pro registrador `ip`.
 <br><br>
-[home](../README.md)
+[pwn](../README.md)<br>
+[home](../../README.md)
