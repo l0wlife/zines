@@ -9,7 +9,7 @@ Por matéria de facilidade de compreensão, nós vamos começar com **Python**, 
 
 ## Recomendações
 
-Durante as partes fundamentais, você não vai ter problema algum, independentimente de qual sistema operacional você use. Não obstante, como futuramente vamos nos focar em uma visão de segurança e ataque, é recomendado — em algumas partes necessário — que você esteja usando algum sistema Unix-based. Então para lhe livrar de futuras dores de cabeças, instale o Linux. Se prefere não fazer Dual boot, então recomendo que instale em alguma VM. (e.g [VirtualBox](https://www.virtualbox.org/wiki/Downloads))<br>
+Durante as partes fundamentais, você não vai ter problema algum, independente de qual sistema operacional você use. Não obstante, como futuramente vamos nos focar em uma visão de segurança e ataque, é recomendado — em algumas partes necessário — que você esteja usando algum sistema Unix-based. Então para lhe livrar de futuras dores de cabeças, instale o Linux. Se prefere não fazer Dual boot, então recomendo que instale em alguma VM. (e.g [VirtualBox](https://www.virtualbox.org/wiki/Downloads))<br>
 
 ### [Python](python/README.md)
 
