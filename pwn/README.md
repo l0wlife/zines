@@ -17,4 +17,5 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [shellcode](shellcode.md) ~ Entendendo o que é um shellcode<br>
 [environment overwrite](bof/env.md) ~ Exploração por meio de variáveis de ambiente, e execução de shellcode<br><br>
 
-[nx-bit bypass](bof/nx.md) ~ Bypass da Proteção NX-Bit
+[nx-bit bypass](bof/nx.md) ~ Bypass da Proteção NX-Bit<br>
+[aslr-32bits](bof/aslr32.md) ~ Bypass de NX + ASLR 32 bits<br>
