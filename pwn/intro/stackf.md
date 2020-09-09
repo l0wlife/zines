@@ -3,4 +3,5 @@
 # Stack Frame
 Para simplificar, um stack frame é um bloco delimitado na stack, com as instruções de sua respectiva função, em um stack frame é alocado as variáveis declaradas, arrays, buffers...
 <br><br>
-[home](../README.md)
+[pwn](../README.md)
+[home](../../README.md)
