@@ -7,15 +7,17 @@ Pivoting é uma forma de navegar pelos servidores da intranet, normalmente, quan
 Assim que você obtem acesso a um servidor, mesmo que não seja `root`, você pode começar o pivoting, eu vou usar uma zine que eu escrevi a um tempo sobre pivoting como referência, então me desculpe a má qualidade de algums imagens...<br><br>
 Há um tempo atrás, eu peguei um acesso a `unir`, e fiz um redirecionamento de tráfego<br><br>
 
-<img src="https://i.imgur.com/DdQwWo3.png"><br><br>
+<img src="https://i.imgur.com/rrsqrOr.png" width="60%"><br><br>
 
 Repare que, eu spawnei uma shell comum, e dei o comando `route`, uma tabela que exibe o destino dos pacotes e ele exibe também em `destino` o endereço base da rede<br><br>
 
-Usei o `autoroute` e passei o ip base da rede com um range pra intranet `run autoroute -s 10.0.104.0/24`<br><br>
+Usei o `autoroute` e passei o ip base da rede com um range pra intranet `run autoroute -s 10.0.104.1/24`<br><br>
 
 ## Tunelando o servidor
 Agora que criamos uma route pra intranet, só precisamos fazer desse servidor um tunel pra intranet, pra isso, temos um modulo auxiliary do metasploit chamado `socks4a`<br>
 De o comnado `run` no socks4a depois de ter criado a route, e o socks4a vai agir como um proxyserver, agora basta configurar esse `proxy` na sua máquina, pra isso, eu usei o proxychains...<br><br>
+
+<img src="https://i.imgur.com/8MRZ3r2.png" width="60%"><br><br>
 
 proxychains.conf:<br>
 ```
