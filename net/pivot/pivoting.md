@@ -26,7 +26,7 @@ socks4  127.0.0.1 1080
 
 ## Scan na intranet
 Agora que configuramos o proxyserver no servidor que tinhamos acesso, vamos rodar um scan na intranet com o nmap<br>
-`proxychains nmap -sV -sS -oN .unir.txt 10.0.104.0/24`<br><br>
+`proxychains nmap -sV -sS -oN .intranet.txt 10.0.104.1/24`<br><br>
 
 O resultado foi esse: https://pastebin.com/raw/MaFt9x3p<br><br>
 
