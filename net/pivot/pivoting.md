@@ -28,7 +28,7 @@ socks4  127.0.0.1 1080
 Agora que configuramos o proxyserver no servidor que tinhamos acesso, vamos rodar um scan na intranet com o nmap<br>
 `proxychains nmap -sV -sS -oN .unir.txt 10.0.104.0/24`<br><br>
 
-O resultado foi esse: https://pastebin.com/raw/dg9mPNVC<br><br>
+O resultado foi esse: https://pastebin.com/raw/MaFt9x3p<br><br>
 
 Eu não fui além disso, mas perceba que muitos dos services da intranet são iguais, principalmente os windows servers, o passo seguinte, seria procurar uma forma de explorar esses services e obter acesso aos servers da intranet<br><br>
 
