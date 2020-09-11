@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/VATToY0.png"></img>
+<img width="30%" src="https://i.imgur.com/VATToY0.png">
 
 
 
