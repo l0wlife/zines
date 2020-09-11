@@ -41,7 +41,7 @@ void low_drv_hide(void)
 }
 ```
 <br>
-Perceba que no `lowlife.h`, é carregada uma `list`, que seria a lista de drivers do sistema, e é feito um hook para o driver se auto-deletar da `list`<br>
+Perceba que no lowlife.h, é carregada uma list, que seria a lista de drivers do sistema, e é feito um hook para o driver se auto-deletar da list<br>
 Para entender melhor, veja [esse vídeo](https://youtu.be/3npnXeOnEAw)<br><br>
 
 [pwn](../README.md)<br>
