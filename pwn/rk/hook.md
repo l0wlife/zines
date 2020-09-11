@@ -6,8 +6,11 @@ No caso dos rootkits, esse gancho seria geralmente para ocultar alguma coisa, um
 
 # lowlife
 Veja a source do driver<br><br>
-lowlife.c
 ```c
+/* 
+ * lowlife.c 
+ */
+
 #include <linux/module.h>
 #include "lowlife.h" /* -- header with low_drv_hide() -- */
 
@@ -25,10 +28,11 @@ static void __exit low_exit(void)
 
 module_init(low_init);
 module_exit(low_exit);
-```
-<br>
-lowlife.h
-```c
+
+/* 
+ * lowlife.h
+ */
+
 static struct list_head *drv_prev;
 void low_drv_hide(void)
 {
