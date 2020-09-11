@@ -4,23 +4,25 @@ Você pode baixar o Python no próprio [site do projeto](https://www.python.org/
 Para checar a versão, abra o seu terminal e digite `python3 -v`, se a saída tiver algo relacionado a "Python 3.7.x", você já tem a versão configurada. Também tente verificar digitando `python3.7 -v`.
 Se nenhum dos dois funcionou, recomendo que você atualize para a versão utilizada aqui (Python v3.7).
 
-Para instalar o Python3.7, comece atualizando a sua lista de pacotes
+Para instalar o Python3.7, comece atualizando a sua lista de pacotes<br>
 `$ sudo apt update`
-Após isso:
+Após isso:<br>
 `$ sudo apt install software-properties-common`
-Adicione essa ppa ao seu sistema:
+Adicione essa ppa ao seu sistema:<br>
 `$ sudo add-apt-repository ppa:deadsnakes/ppa`
-Quando for questionado se deseja continuar, aperte ENTER
+Quando for questionado se deseja continuar, aperte ENTER<br>
 `$ Press [ENTER] to continue or Ctrl-c to cancel adding it.`
-Por fim, atualize mais uma vez sua lista de pacotes:
+Por fim, atualize mais uma vez sua lista de pacotes:<br>
 `$ sudo apt update`
-Agora você pode finalmente instalar o Python3.7:
+Agora você pode finalmente instalar o Python3.7:<br>
 `$ sudo apt install python3.7`
-
-Teste com o seguinte comando:
+<br>
+Teste com o seguinte comando:<br>
 `$ python3.7 --version`
-Você deverá receber de volta:
+Você deverá receber de volta:<br>
 `Python 3.7.9`
+<br>
+
 [Fonte](https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/)
 Caso receba isso, você oficialmente tem o Python instalado, e agora pode seguir o resto das zines sem problemas.
 
