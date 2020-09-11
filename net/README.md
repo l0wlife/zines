@@ -10,4 +10,4 @@ Não vamos falar muito de networking em sí, mas algumas coisas interessantes em
 ### Port-knocking
 [port-knocking](pknock/pkn.md) ~ Port-Knocking para rootkits...<br>
 [single packet authorization](pknock/spa.md) ~ Port-Knocking Single Packet Authrozation<br>
-[fwknop](pknock/fwknop.md) ~ FireWall Knock OPerator para SPA<br>
+[fwknop](pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
