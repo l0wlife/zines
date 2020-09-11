@@ -23,7 +23,8 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [pwntools](bof/pwnt.md) ~ Library pwntools - Escrevendo simples exploit<br>
 
 ### Rootkit
-[hook](rk/hook.md) ~ O que é um hook<br>
+[hook](rk/hook.md) ~ demonstração de um hooking na driver list<br>
+[hook2](rk/hook2.md) ~ demonstração de um hooking na port list<br>
 [port-knocking](../net/pknock/pkn.md) ~ Port-Knocking para rootkits<br>
 [single packet authorization](../net/pknock/spa.md) ~ Port-Knocking Single Packet Authorization<br>
 [fwknop](../net/pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
