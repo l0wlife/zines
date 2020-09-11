@@ -21,3 +21,9 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [aslr-32bits](bof/aslr32.md) ~ Bypass de NX + ASLR 32 bits<br><br>
 
 [pwntools](bof/pwnt.md) ~ Library pwntools - Escrevendo simples exploit<br>
+
+### Rootkit
+[hook](rk/hook.md) ~ O que é um hook<br>
+[port-knocking](../net/pknock/pkn.md) ~ Port-Knocking para rootkits<br>
+[single packet authorization](../net/pknock/spa.md) ~ Port-Knocking Single Packet Authorization<br>
+[fwknop](../net/pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
