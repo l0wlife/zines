@@ -28,3 +28,6 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 [port-knocking](../net/pknock/pkn.md) ~ Port-Knocking para rootkits<br>
 [single packet authorization](../net/pknock/spa.md) ~ Port-Knocking Single Packet Authorization<br>
 [fwknop](../net/pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
+
+### Bootkit
+[bootloader](bk/bld.md) ~ o que é um bootloader<br>
