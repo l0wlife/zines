@@ -12,8 +12,8 @@ Entre no diretório temporário do sistema, e lá baixe o Python: — a versão 
 `$ cd /tmp`<br>
 `$ wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tar.xz`<br><br>
 Extraia o conteúdo, entre na pasta e configure o binário (lembre-se da opção `--enable-optimizations`):<br>
-`$ tar -xf Python-3.7.2.tar.xz`<br>
-`$ cd Python-3.7.2`<br>
+`$ tar -xf Python-3.7.9.tar.xz`<br>
+`$ cd Python-3.7.9`<br>
 `$ ./configure --enable-optimizations`<br><br>
 Rode o make, e então o make (lembre-se da opção `altinstall`, caso contário você vai acabar substituindo a versão do Python padrão do seu sistema.):
 `$ make -j 1`<br>
