@@ -8,7 +8,7 @@ Para instalar o Python3.7, comece atualizando a sua lista de pacotes<br>
 `$ sudo apt update`<br><br>
 Após isso instale as dependências:<br>
 `$ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget`<br><br>
-Entre no diretório temporário do sistema, e lá baixe o Python: — a versão baixada aqui é o 3.7.9, você pode checar qual versão é a mais atualizada.
+Entre no diretório temporário do sistema, e lá baixe o Python: — a versão baixada aqui é o 3.7.9, você pode checar qual versão é a mais atualizada.<br>
 `$ cd /tmp`<br>
 `$ wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tar.xz`<br><br>
 Extraia o conteúdo, entre na pasta e configure o binário (lembre-se da opção `--enable-optimizations`):<br>
