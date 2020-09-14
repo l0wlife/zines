@@ -32,3 +32,6 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 ### Bootkit
 [bios](bios.md) ~ BIOS<br>
 [bootloader](bk/bld.md) ~ o que é um bootloader<br>
+[bootkit-1](bk/bk1.md) ~ Introdução a bootkit<br>
+[bootkit-2](bk/bk2.md) ~ hooks do gapz-bootkit<br>
+[bootkit-3](bk/bk3) ~ Payload injection<br>
