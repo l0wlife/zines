@@ -10,3 +10,6 @@ Para manter esse "buffer" secreto é utilizado uma `AES (Advanced Encryption Sta
 <br><br><img src="https://i.imgur.com/3IrfYUc.png"><br><br>
 
 É uma `IV (Initialization Value)` diferente pra cada section, ou seja, cada section vai resultar em uma CBC diferente<br><br>
+
+[pwn](../README.md)<br>
+[home](../../README.md)
