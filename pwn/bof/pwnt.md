@@ -11,10 +11,10 @@ Esse exploit, é equivalente ao que haviamos usado anteriormente `perl -e 'print
 ## Features
 Comece sempre importando o pwntools `from pwn import *`<br>
 
-* pack address 32 bits
-* pack address 64 bits
-* send payload
-* interactive shell<br><br>
+* *pack address 32 bits*
+* *pack address 64 bits*
+* *send payload*
+* *interactive shell*<br><br>
 
 ## Source
 ```python
