@@ -22,6 +22,7 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 
 ### PrivEsc
 * [sys info](privesc/sysinf.md) ~ operational system information gathering<br>
+* [bad permissions config](privesc/badconf.md) ~ Explorando permissões mal configuradas<br>
 
 ### Rootkit
 * [hook](rk/hook.md) ~ demonstração de um hooking na driver list<br>
