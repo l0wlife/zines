@@ -22,6 +22,9 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 
 * [pwntools](bof/pwnt.md) ~ Library pwntools - Escrevendo simples exploit<br>
 
+### PrivEsc
+* [sys info](privesc/sysinf.md) ~ operational system information gathering<br>
+
 ### Rootkit
 * [hook](rk/hook.md) ~ demonstração de um hooking na driver list<br>
 * [hook2](rk/hook2.md) ~ demonstração de um hooking na port list<br>
