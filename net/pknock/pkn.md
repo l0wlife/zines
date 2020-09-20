@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Port Knocking
 É uma forma de abrir uma determinada porta pra qualquer conexão externa, porém essa porta só é aberta se for enviado um packet em uma coleção de portas pré-determinadas<br><br>
