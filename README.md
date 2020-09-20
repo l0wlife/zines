@@ -6,7 +6,7 @@ just some zines...
 [prog](prog/README.md) ~ c & python
 
 ## web security
-[web](web/README.md)
+[web](web/README.md) ~ ?
 
 ## pwn
 [pwn](pwn/README.md) ~ bof, privesc, rootkits...
