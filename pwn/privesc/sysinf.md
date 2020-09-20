@@ -11,3 +11,6 @@ Antes de começar um privesc, você precisa de informações do sistema que est�
 ### Extraindo kernel's vulneráveis
 * `$ curl https://raw.githubusercontent.com/lucyoa/kernel-exploits/master/README.md 2>/dev/null | grep "Kernels: " | cut -d ":" -f 2 | cut -d "<" -f 1 | tr -d "," | tr ' ' '\n' | grep -v "^\d\.\d$" | sort -u -r | tr '\n' ' '`<br><br>
 <img src="https://i.imgur.com/yI1BXjF.png"></img><br><br>
+
+[pwn](../README.md)<br>
+[home](../../README.md)
