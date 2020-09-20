@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Single Packet Authrozation
 Sigle Packet Authrozation é uma outra forma de realizar um port-knocking, e é normalmente a forma utilizada para os rootkits<br><br>
