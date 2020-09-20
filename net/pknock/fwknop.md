@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # fwknop
 O fwknop é um operador bastante utilizado quando se trata de `port-knocking SPA`, ele facilita bastante o processo<br>
