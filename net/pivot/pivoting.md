@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Pivoting
 Pivoting é uma forma de navegar pelos servidores da intranet, normalmente, quando se consegue acesso a um servidor, a ideia é passar para o servidor principal<br><br>
