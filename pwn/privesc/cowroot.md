@@ -21,6 +21,7 @@ Dado isso, o cowroot faz o overwrite dessa região de memória com um payload do
 
 <img src="https://i.imgur.com/eOJje0V.png"></img><br><br>
 
+Esse payload apenas spawna uma shell uid=0(root), é um [shellcode](../shellcode.md), que foi anteriormente explicado<br>
 [demonstração cowroot](https://youtu.be/YoeuGnF_2Qk) by RE AK (Linux Dirty C0W Exploit tutorial (privilege escalation attack root))<br><br>
 
 [pwn](../README.md)<br>
