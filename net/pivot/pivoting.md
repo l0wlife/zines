@@ -23,8 +23,9 @@ proxychains.conf:<br>
 ```
 socks4  127.0.0.1 1080
 ```
-<br>
-> 1080 é a porta default do socks4a<br><br>
+<br></br>
+
+> 1080 é a porta default do socks4a<br>
 
 ## Scan na intranet
 Agora que configuramos o proxyserver no servidor que tinhamos acesso, vamos rodar um scan na intranet com o nmap<br>
