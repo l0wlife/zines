@@ -55,7 +55,7 @@ Bad chars: 0x00 0x0a 0x0d<br><br>
 
 ## build exploit
 Essa parte é simples, basta conduzir um socket ao servidor e enviar o payload.<br>
-Veja o ![source-code](https://github.com/wtfflya/brainpan/blob/master/brainpan.py) do exploit.<br><br>
+Veja o [source-code](https://github.com/wtfflya/brainpan/blob/master/brainpan.py) do exploit.<br><br>
 
 <img src="https://i.imgur.com/Wgr2LoY.png"></img><br><br>
 <img src="https://i.imgur.com/504bTP3.png"></img><br><br>
