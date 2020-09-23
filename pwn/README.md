@@ -19,6 +19,7 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 * [nx-bit bypass](bof/nx.md) ~ Bypass da Proteção NX-Bit<br>
 * [aslr-32bits](bof/aslr32.md) ~ Bypass de NX + ASLR 32 bits<br>
 * [pwntools](bof/pwnt.md) ~ Library pwntools - Escrevendo simples exploit<br>
+* [remote bof](bof/rbof.md) ~ Remote Buffer Overflow - brainpan (windows x86)<br>
 
 ### PrivEsc
 * [sys info](privesc/sysinf.md) ~ operational system information gathering<br>
