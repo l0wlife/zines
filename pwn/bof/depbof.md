@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # depurando um bof
 Vamos começar falando sobre a exploração depurada de buffer overflow, usaremos o mesmo ambiente de antes, o `narnia0`.<br>
