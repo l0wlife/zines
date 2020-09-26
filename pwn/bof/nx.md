@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # NX-Bit
 Essa é uma proteção que desabilita qualquer bit de execução na Stack, ou seja, não é possível utilizar um shellcode para spawnar uma shell ou algo do tipo<br>
