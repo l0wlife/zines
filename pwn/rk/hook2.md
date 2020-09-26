@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Empty
 [Empty](https://github.com/xnwm0/empty), foi um projeto que eu fiz quando estava estudando bsd-rootkit<br><br>
