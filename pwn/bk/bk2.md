@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # hooking functions
 Algumas funções são capazes de detectar e remover a hidden storage, porém para evitar isso, o Win32/gapz faz um hook nessas funcionalidades<br>
