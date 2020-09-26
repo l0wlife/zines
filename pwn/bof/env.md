@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Environment Overwrite
 O ambiente que vamos trabalhar é o `narnia`, novamente, e dessa vez, vamos fazer o desafio 1<br>
