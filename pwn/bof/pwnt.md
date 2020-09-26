@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # pwntools
 Pwntools é uma lib do python para escrever alguns exploits, tanto remotos quanto local<br>
