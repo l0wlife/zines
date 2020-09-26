@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # aslr
 ASLR (Address System Layout Randomization), é uma proteção do sistema que randomiza os endereços da stack/libc<br><br>
