@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # brainpan
 o brainpan é um challenge muito interessante, espero que lendo isso vocês entendam como funciona uma exploração de buffer overflow.<br><br>
