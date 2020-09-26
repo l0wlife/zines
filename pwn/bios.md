@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # BIOS
 A bios (Basic Input Output System) é firmware, responsável por inicializar o sistema operacional e tem algumas funcionalidades importantes.<br><br>
