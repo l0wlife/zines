@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # gapz
 Para começar a falar de bootkit, vou usar como referência o [Win32/gapz bootkit](https://www.welivesecurity.com/wp-content/uploads/2013/04/gapz-bootkit-whitepaper.pdf).<br>
