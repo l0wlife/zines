@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Stack
 Nesse tópico, tente entender o que é e como funciona a Stack, lembrando que é importante que você estude por fora...<br>
