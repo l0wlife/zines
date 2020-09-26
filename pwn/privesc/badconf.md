@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # bad permissions config
 Para introduzir nesse tema, é necessário que você conheça o sistema de permissões do linux, veja [esse link](https://www.alura.com.br/artigos/entendendo-as-permissoes-no-linux) antes de começar essa zine<br><br>
