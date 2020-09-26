@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.imgur.com/CGV9DU1.png"></img>
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # Hooking
 Um hook, é basicamente um gancho em alguma funcionalidade de algum software<br><br>
