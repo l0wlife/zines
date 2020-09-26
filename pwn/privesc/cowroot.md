@@ -1,3 +1,4 @@
+<img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # cowroot
 Com certeza o cowroot é um dos exploits local-root mais conhecidos, ele explora uma falha do linux, na qual falaremos mais pra frente.
