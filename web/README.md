@@ -8,4 +8,4 @@ Eu irei me aprofundar nos métodos de invasão, onde exploraremos sistemas dos m
 Bem, nessa área é necessário saber pelo menos o **mínimo** de alguma linguagem, pois vai utlizar muitos exploits para explorar as vulnerabilidades de uma forma mais automática e rápida.
 <br><br>
 Bem, iremos separar por dois tópicos, o **web-server** e **web-client**, a diferença é simples, iremos explorar vulnerabilidades no **back-end** e no outro, iremos explorar no **front-end**.
-* [server](bof/bof.md)<br>
+
