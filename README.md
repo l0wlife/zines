@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/IbsQK6hbhJnuBqxzl5/source.gif" width="100"></img>
+  <img src="https://i.giphy.com/media/IbsQK6hbhJnuBqxzl5/source.gif" width="130"></img>
   <h1>zines</h1>
   <p>just some zines...<br>
   Status: In progress</p>
