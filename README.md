@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/naRFvGv.png" width="40%"></img>
+<center><img src="https://i.giphy.com/media/IbsQK6hbhJnuBqxzl5/source.gif" width="25%"></img></center>
 
 # zines
 just some zines...
