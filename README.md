@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.giphy.com/media/IbsQK6hbhJnuBqxzl5/source.gif" width="150"></img>
   <h1>zines</h1>
-  <p>just some zines...<br>
-  Status: In progress</p>
+  <p>just some zines...<br></p>
+  <img src="https://i.imgur.com/EqzIoku.png"></img>
 
 ## prog
 [prog](prog/README.md) ~ c & python
