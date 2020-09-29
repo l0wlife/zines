@@ -2,5 +2,5 @@
 <br />
 # Funfacts
 Aqui temos as maiores esquisitices da programação, como linguagens esotéricas e lendas malucas
-Usaremos todo o aprendizado ganho nessas maluquices pra criar coisas úteis como por exemplo, um hello word :) , super util
+Usaremos todo o aprendizado ganho nessas maluquices pra criar coisas úteis como por exemplo, um hello world :) , super util
 
