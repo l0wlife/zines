@@ -4,10 +4,10 @@
 Não vamos falar muito de networking em sí, mas algumas coisas interessantes em questão de segurança, como pivoting, port-knocking, tunn...
 
 ### Pivoting e redirecionamento de tráfego
-[traffic redirection](pivot/tr.md) ~ Redirecionamento de tráfego<br>
-[pivoting](pivot/pivoting.md) ~ Usando redirecionamento de tráfego para pivoting<br><br>
+* [traffic redirection](pivot/tr.md) ~ Redirecionamento de tráfego<br>
+* [pivoting](pivot/pivoting.md) ~ Usando redirecionamento de tráfego para pivoting<br><br>
 
 ### Port-knocking
-[port-knocking](pknock/pkn.md) ~ Port-Knocking para rootkits...<br>
-[single packet authorization](pknock/spa.md) ~ Port-Knocking Single Packet Authrozation<br>
-[fwknop](pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
+* [port-knocking](pknock/pkn.md) ~ Port-Knocking para rootkits...<br>
+* [single packet authorization](pknock/spa.md) ~ Port-Knocking Single Packet Authrozation<br>
+* [fwknop](pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
