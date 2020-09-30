@@ -2,7 +2,7 @@
 
 # Hooking
 Um hook, é basicamente um gancho em alguma funcionalidade de algum software<br><br>
-No caso dos rootkits, esse gancho seria geralmente para ocultar alguma coisa, um exemplo disso é o [lowlife](https://github.com/xnwm0/lowlife), que faz um hook pra se esconder na lista de drivers<br><br>
+No caso dos rootkits, esse gancho seria geralmente para ocultar alguma coisa, um exemplo disso é o [lowlife](https://github.com/wtfflya/lowlife), que faz um hook pra se esconder na lista de drivers<br><br>
 
 # lowlife
 Veja a source do driver<br><br>
