@@ -3,7 +3,7 @@
   <h1>zines</h1>
   <p>just some zines...<br></p>
   <img src="https://img.shields.io/badge/Status-In%20Progress-blueviolet?style=flat-square&logo=appveyor"></img>
-  <br />
+
 ## prog
 [prog](prog/README.md) ~ c & python
 
