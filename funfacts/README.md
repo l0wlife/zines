@@ -1,5 +1,5 @@
 <div align="center">
-  ![Gif](https://media1.tenor.com/images/4a9b68a4e588dd91617df6e736e428ca/tenor.gif)
+  <img src="https://media1.tenor.com/images/4a9b68a4e588dd91617df6e736e428ca/tenor.gif" width="180"></img>
 <br />
 # Funfacts
 Aqui temos as maiores esquisitices da programação, como linguagens esotéricas e lendas malucas
