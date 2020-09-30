@@ -5,4 +5,7 @@ Bypass de IDS tem algumas formas de fazer. Não vamos abordar aqui todas elas, a
 
 ### bypass NIDS/NIPS
 Vamos montar um cenário para essa explicação. Imagine que você esteja tentando pivotar a intranet, porém em qualquer tentativa de injetar um payload, esse NIDS/NIPS alertaria/pararia o seu payload, e aí sua ownada seria comprometida ;(<br><br>
-Felizmente, tem uma forma bem simples de evitar esse cenário, ao comprometer um dos servidores, basta enumerar os servidores da intranet, como visto na zine [pivoting](../pivot/pivoting.md).<br><br> Ao enumarar os servidores, você pode fazer um dos (denial of service) nesse servidor. Enquanto esse servidor estiver inativo, você pode injetar seu payload sem o NIDS/NIPS alertar/parar sua penetração 8=D ~~
+Felizmente, tem uma forma bem simples de evitar esse cenário, ao comprometer um dos servidores, basta enumerar os servidores da intranet, como visto na zine [pivoting](../pivot/pivoting.md).<br><br> Ao enumarar os servidores, você pode fazer um dos (denial of service) nesse servidor. Enquanto esse servidor estiver inativo, você pode injetar seu payload sem o NIDS/NIPS alertar/parar sua penetração<br><br>8=D ~~
+<br><br>
+[net](../README.md)<br>
+[home](../../README.md)
