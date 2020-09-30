@@ -40,5 +40,5 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 * [bootkit-2](bk/bk2.md) ~ hooks do gapz-bootkit<br>
 * [bootkit-3](bk/bk3.md) ~ Payload injection<br><br>
 
-### others
+### Others
 * [bring our dll](bodll.md) ~ Técnica bring our dll<br>
