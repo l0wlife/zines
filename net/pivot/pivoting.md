@@ -31,7 +31,7 @@ socks4  127.0.0.1 1080
 Agora que configuramos o proxyserver no servidor que tinhamos acesso, vamos rodar um scan na intranet com o nmap<br>
 `proxychains nmap -sV -sS -oN .intranet.txt 10.0.104.1/24`<br><br>
 
-<img src="https://i.imgur.com/tOVA3oX.png" width="60%">
+<img src="https://i.imgur.com/tOVA3oX.png" width="60%"><br>
 
 O resultado foi esse: https://pastebin.com/raw/MaFt9x3p<br><br>
 
