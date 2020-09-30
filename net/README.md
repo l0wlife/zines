@@ -13,4 +13,4 @@ Não vamos falar muito de networking em sí, mas algumas coisas interessantes em
 * [fwknop](pknock/fwknop.md) ~ FireWall KNock OPerator para SPA<br>
 
 ### IDS/IPS
-comming soon...
+* [IDS/IPS](idsips/idsips.md) ~ Definição e Conceitos de IDS/IPS
