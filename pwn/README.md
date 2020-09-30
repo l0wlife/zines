@@ -38,4 +38,7 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 * [bootloader](bk/bld.md) ~ o que é um bootloader<br>
 * [bootkit-1](bk/bk1.md) ~ Introdução a bootkit<br>
 * [bootkit-2](bk/bk2.md) ~ hooks do gapz-bootkit<br>
-* [bootkit-3](bk/bk3.md) ~ Payload injection<br>
+* [bootkit-3](bk/bk3.md) ~ Payload injection<br><br>
+
+### others
+* [bring our dll](bodll.md) ~ Técnica bring our dll<br>
