@@ -5,7 +5,7 @@
 
 ## eso
 Aqui temos as maiores esquisitices da programação, como linguagens esotéricas que ninguém usa, porem
-Usaremos todo o aprendizado ganho nessas maluquices pra criar coisas úteis como por exemplo, um hello world :) , super util
+Usaremos todo o aprendizado ganho nessas maluquices pra criar coisas úteis como por exemplo, um hello world :) , super util<br>
 Obs::. Talvez quem sabe um exploit em código morse
 
 ## conc
