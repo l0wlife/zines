@@ -41,4 +41,4 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 * [bootkit-3](bk/bk3.md) ~ Payload injection<br><br>
 
 ### Others
-* [bring in own driver](bodll.md) ~ Técnica bring in own driver<br>
+* [bring in own driver](biodll.md) ~ Técnica bring in own driver<br>
