@@ -13,6 +13,9 @@ Bem, iremos separar por dois tópicos, o **web-server** e **web-client**, a dife
 ### WebServer
 * [WAF/IPS](waf/intro.md) ~ Introdução ao firewall<br>
 * [Upload de arquivos](fp/intro.md) ~ Executar remotamente arquivos dentro de um servidor<br>
-
+soon...
+### WebClient
+* [Login bypass](js/bypass.md) ~ Burlar sistemas de login que utilizam javascript <br>
+* [Cracking javascript](js/cracking.md) ~ Crackear códigos de javascript para entendermos o que está sendo executado<br>
 
 
