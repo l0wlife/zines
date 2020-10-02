@@ -49,7 +49,8 @@ SID               : x-x-x-x
          * Password : mypassword
 
 ```
----
-<br>
+### Nota
+Essa foi só uma demonstração de como você pode usar essa ferramenta, mas ela tem muitos outros modules interessantes. Você pode usar o module `kerberos` pra trabalhar com a api `kerberos` do windows no mimikatz.
+
 [pwn](README.md)<br>
 [home](../README.md)
