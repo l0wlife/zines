@@ -42,3 +42,4 @@ Pra você que ainda não entende muito sobre exploitation e afins, vamos a uma b
 
 ### Others
 * [bring in own driver](biodll.md) ~ Técnica bring in own driver<br>
+* [mimikatz password dump](mkpdump.md) ~ password windows dump com mimikatz
