@@ -6,7 +6,7 @@ Indo na ordem das perguntas, webhacking é uma área onde você utiliza *técnic
 Eu irei me aprofundar nos métodos de invasão, onde exploraremos sistemas dos mais básicos até os mais complexos.
 <br><br>
 Bem, nessa área é necessário saber pelo menos o **mínimo** de alguma linguagem, pois vai utlizar muitos exploits para explorar as vulnerabilidades de uma forma mais automática e rápida.<br>
-Recomendo o estudo de **Python**, **Ruby**, **C**.
+Recomendo o estudo de **Python**, **Ruby** e **C**.
 <br><br>
 Bem, iremos separar por dois tópicos, o **web-server** e **web-client**, a diferença é simples, iremos explorar vulnerabilidades no **back-end** e no outro, iremos explorar no **front-end**.
 
