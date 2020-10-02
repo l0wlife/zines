@@ -9,4 +9,7 @@ Bem, nessa área é necessário saber pelo menos o **mínimo** de alguma linguag
 Recomendo o estudo de **Python**, **Ruby** e **C**.
 <br><br>
 Bem, iremos separar por dois tópicos, o **web-server** e **web-client**, a diferença é simples, iremos explorar vulnerabilidades no **back-end** e no outro, iremos explorar no **front-end**.
+<br><br>
+### WebServer
+* [WAF/IPS](waf/wafips.md) ~ Introdução ao firewall<br>
 
