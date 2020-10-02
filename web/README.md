@@ -17,5 +17,5 @@ soon...
 ### WebClient
 * [Login bypass](js/bypass.md) ~ Burlar sistemas de login que utilizam javascript <br>
 * [Cracking javascript](js/cracking.md) ~ Crackear códigos de javascript para entendermos o que está sendo executado<br>
-
+soon...
 
