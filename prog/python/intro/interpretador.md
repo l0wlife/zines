@@ -10,7 +10,7 @@ Python 3.7 (default, Sep 16 2015, 09:25:04)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
-Comecemos com alguns comandos para testar:<br><br>
+Comecemos com alguns comandos para testar:<br>
 ```
 >>> 1 == 1
 True
