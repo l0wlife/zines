@@ -1,7 +1,7 @@
 <img width="30%" src="https://i.imgur.com/ULwPfn3.png"></img>
 
 # IDS/IPS
-As IDS/IPS, são servidores na rede que checam as signature do tráfego da rede, nesse processo, ele faz uma comparação com as signatures da ataques conhecidos. Se a comparação for verdadeira, um IDS faria um alerta, já um IPS, alerta e interrompe esse pacote. Ou seja, o IDS é um sistema pra monitorar a rede e o IPS é um sistema para previnir um ataque a rede.
+As IDS/IPS, são servidores na rede que checam as signature do tráfego da rede, nesse processo, ele faz uma comparação com as signatures de ataques conhecidos. Se a comparação for verdadeira, um IDS faria um alerta, já um IPS, alerta e interrompe esse pacote. Ou seja, o IDS é um sistema pra monitorar a rede e o IPS é um sistema para previnir um ataque a rede.
 
 ## HIDS/NIDS/HIPS/NIPS
 Existem diferentes tipos de IDS/IPS. Vamos ver quais são agora.<br>
