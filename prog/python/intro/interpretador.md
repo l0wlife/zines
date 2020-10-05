@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/cOUwqtP.png" width="70%"></p>
 
 Como já foi antes dito, você pode iniciar o Python — em sistemas Unix — pelo terminal, digitando:<br><br>
 `python3.7`<br><br>
