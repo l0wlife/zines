@@ -14,4 +14,4 @@ Não vamos falar muito de networking em sí, mas algumas coisas interessantes em
 
 ### IDS/IPS
 * [IDS/IPS](idsips/idsips.md) ~ Definição e Conceitos de IDS/IPS<br>
-* [bypass IDS/IPS](idsips/bypass.md) ~ comming soon
+* [bypass IDS/IPS](idsips/bypass.md) ~ Bypass IDS/IPS via DoS<br>
