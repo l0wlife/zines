@@ -5,4 +5,4 @@
   ## Fundamentos da Linguagem
   [Usando óculos](fundamento/basico.md) ~ Aprendendo o básico da linguagem e como um programa funciona em uma visão geral.
   [Entrando pro crime](fundamento/fluxo.md) ~ Aprendendo a controlar o fluxo do programa com declarações.
-</div>
+
