@@ -1,4 +1,4 @@
-<center><img width="70%" src="https://i.imgur.com/VYGCgNc.png"></center>
+<div style="margin: 0 auto;"><img width="70%" src="https://i.imgur.com/VYGCgNc.png"></div>
 
 Você pode baixar o Python no próprio [site do projeto](https://www.python.org/downloads/). Em caso de você ser usuário Linux ou MacOS (duas distros Unix-based), muito provavelmente o Python já vai vir instalado. 
 Para checar a versão, abra o seu terminal e digite `python3 -v`, se a saída tiver algo relacionado a "Python 3.7.x", você já tem a versão configurada. Também tente verificar digitando `python3.7 -v`.
