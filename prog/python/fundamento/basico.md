@@ -13,7 +13,7 @@ No exemplo citado, `2 + 2` evaluam até um único valor, o 4. No Python um únic
 >>> 2
 2
 ```
-No Python existem outros diversos operadores que você pode usar, alguns deles são esses:
+No Python existem outros diversos operadores númericos que você pode usar, alguns deles são esses:
 
 | Operador | Operação        | Exemplo | Se evalua á |
 | -------- | --------------- | ------- | ----------- |
@@ -24,6 +24,28 @@ No Python existem outros diversos operadores que você pode usar, alguns deles s
 |    *     | Multiplicação   | 3 * 5   | 15          |
 |    -     | Subtração       | 5 - 2   | 3           |
 |    +     | Adição          | 2 + 2   | 4           |
+
+Além de operadores de comparação:
+
+| Operador |    Significado                                          |
+|----------|---------------------------------------------------------|
+|    <     |  Menor que                                              |
+|    >     |  Maior que                                              |
+|    ==    |  Igual a                                                |
+|    <=    |  Menor ou igual a                                       |
+|    >=    |  Maior ou igual a                                       |
+|    !=    |  Diferente                                              | 
+|    is    |  Verifica de 2 variáveis apontam para o mesmo objeto    |
+|    in    |  Verifica se variável faz parte de uma coleção em outra |
+|  not in  |  Contrario de in, verifica se não faz parte de coleção  |
+
+E operadores lógicos:
+
+| Operador        | Significado                                             |
+|-----------------|---------------------------------------------------------|
+|  and (a and b)  | Retorna True se a E b forem True se não retorna False   |
+|  or  (a or b)   | Retorna False se a OU b forem False se não retorna True |
+|  not (not a)    | Se a é True retorna False se P False retorna True       |
 
 A precedência dos operadores no Python obedecem a matemática. Isso é o `**` é o primeiro; depois o `%`, `//`, `/`, `*` (nessa mesma ordem).
 Com os parenteses você pode editar a precedência, assim como em uma expressão matemática comum.
