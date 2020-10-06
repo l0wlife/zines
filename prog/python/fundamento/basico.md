@@ -13,7 +13,6 @@ No exemplo citado, `2 + 2` evaluam até um único valor, o 4. No Python um únic
 >>> 2
 2
 ```
-No Python existem outros diversos operadores númericos que você pode usar, alguns deles são esses:
 
 | Operador | Operação        | Exemplo | Se evalua á |
 | -------- | --------------- | ------- | ----------- |
