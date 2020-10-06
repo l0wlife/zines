@@ -90,3 +90,46 @@ Sempre se lembre que uma *expressão* é apenas **valores combinados com operado
 SyntaxError: EOL while scanning string literal
 ```
 Como foi demonstrado, as strings funcionam tanto com aspas simples como com aspas duplas. Porém é necessário que as mesmas sejam fechadas ao fim da string, dessa forma o interpretador entende onde ela acaba. Caso essa necessidade não seja satisfeita, temos um erro. Nesse caso mais um `SyntaxError`, por ser um erro na *expressão* que forma a string. De forma semelhante com o nosso caso anterior.
+
+# Concatenação e replicação de strings
+
+O significado de um operador pode mudar baseado no data-tipo do valor em que ele é aplicado. Por exemplo, o `+` é um operador que soma dois ou mais inteiros ou floats. Porém, quando o `+` é usado com duas — ou mais — strings, o resultado é a junção dos dois textos, processo conhecido como *concatenação*.
+```
+>>> 'Alice' + 'Bob'
+'AliceBob'
+```
+Como já é do conceito, a expressão de strings é reduzida a apenas um valor. Porém, se você tentar fazer o mesmo com uma string e um inteiro — ou um float —, um erro será gerado, pois são de data-tipos diferentes.
+```
+>>> 'Alice' + 42
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    'Alice' + 42
+TypeError: can only concatenate str (not "int") to str
+```
+É gerado um `TypeError`, pela incompatibilidade nos tipos. Como já foi citado anteriomente, com *inteiros* o `+` é usado para somas, e com `strings`, para concatenação. Se os dois forem usados ao mesmo tempo, ocorre uma confusão no interpretador, e um erro de *tipos* é gerado.
+Porém, é possível converter os valores antes da expressão ser evaluada. Futuramente ainda nessa zine aprenderemos a como fazer isso.<br>
+O operador `*` se usado em inteiros e/ou floats, gera um valor multiplicado, se usado em uma string e um valor inteiro é conhecido como *replicação*.<br>
+Por exemplo:
+```
+>>> 'Alice' * 5
+'AliceAliceAliceAliceAlice'
+>>> 'Zoi de Gato ' * 7
+'Zoi de Gato Zoi de Gato Zoi de Gato Zoi de Gato Zoi de Gato Zoi de Gato Zoi de Gato '
+```
+A expressão é reduzida a um único valor, que se repete o mesmo número de vezes que o inteiro usado na operação.
+
+O operador `*` pode ser usado apenas com dois valores númericos (multiplicação), ou um valor de string e um valor inteiro (replicação).
+Caso contrário, você irá receber uma mensagem de erro — muito provavelmente de tipo —. Como demonstrado:
+```
+>>> 'Alice' * 'Bob'
+Traceback (most recent call last):
+  File "<pyshell#32>", line 1, in <module>
+    'Alice' * 'Bob'
+TypeError: can't multiply sequence by non-int of type 'str'
+>>> 'Alice' * 5.0
+Traceback (most recent call last):
+  File "<pyshell#33>", line 1, in <module>
+    'Alice' * 5.0
+TypeError: can't multiply sequence by non-int of type 'float'
+```
+É normal que o intepretador não entenda essas operações. Você não pode multiplicar duas palavras, e é extremamente complexo multiplicar um texto por um número fracionário de vezes.
