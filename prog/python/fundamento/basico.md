@@ -93,7 +93,7 @@ Como foi demonstrado, as strings funcionam tanto com aspas simples como com aspa
 
 # Concatenação e replicação de strings
 
-O significado de um operador pode mudar baseado no data-tipo do valor em que ele é aplicado. Por exemplo, o `+` é um operador que soma dois ou mais inteiros ou floats. Porém, quando o `+` é usado com duas — ou mais — strings, o resultado é a junção dos dois textos, processo conhecido como *concatenação*.
+O significado de um operador pode mudar baseado no data-tipo do valor em que ele é aplicado. Por exemplo, o `+` é um operador que soma dois inteiros ou floats. Porém, quando o `+` é usado com duas strings, o resultado é a junção dos dois textos, processo conhecido como *concatenação*.
 ```
 >>> 'Alice' + 'Bob'
 'AliceBob'
