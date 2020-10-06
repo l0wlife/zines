@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://i.giphy.com/media/IbsQK6hbhJnuBqxzl5/source.gif" width="180"></img>
   <h1>zines</h1>
-  <p>just some zines...<br></p>
+  <p>just some zines...<br>
+  find us at: 144.217.235.106/6667 | #duvidas
+  </p>
   <img src="https://img.shields.io/badge/Status-In%20Progress-blueviolet?style=flat-square"></img>
 
 ## prog
