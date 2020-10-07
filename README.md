@@ -21,3 +21,10 @@
 ## funfacts
 [funfacts](funfacts) ~ curiosities, oddities...
 
+## Colaboradores
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/wtfflya"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/66546948?s=400&u=9090266363180fe29b12b53c0cbcb60f914090f0&v=4" width="100px;" alt=""/><br /><sub><b>Kosu</b></sub></a><br />
+  </tr>
+</table>
