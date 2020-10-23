@@ -4,7 +4,7 @@
 Pivoting é uma forma de navegar pelos servidores da intranet, normalmente, quando se consegue acesso a um servidor, a ideia é passar para o servidor principal<br><br>
 
 ## Primeiros passos
-Assim que você obtem acesso a um servidor, mesmo que não seja `root`, você pode começar o pivoting, eu vou usar uma zine que eu escrevi a um tempo sobre pivoting como referência, então me desculpe a má qualidade de algums imagens...<br><br>
+Assim que você obtem acesso a um servidor, mesmo que não seja `root`, você pode começar o pivoting, eu vou usar uma zine que eu escrevi a um tempo sobre pivoting como referência...<br><br>
 Há um tempo atrás, eu peguei um acesso a `unir`, e fiz um redirecionamento de tráfego<br><br>
 
 <img src="https://i.imgur.com/rrsqrOr.png" width="60%"><br><br>
